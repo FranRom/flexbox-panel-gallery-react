@@ -1,8 +1,11 @@
-#Flex-Box Panel Gallery with React
+# Flex-Box Panel Gallery with React
 
-You can create one or more panels galleries chosing orientation for them, they are completely responsive. Every panel has middle Text(always visible) and top text and bottom text, that are visible when the panel is open. 
+You can create one or more panels galleries(colection) chosing orientation for them, they are completely responsive. Every panel has middle Text(always visible) and top text and bottom text, that are visible when the panel is open. 
 
-##Components: 
+![](flexbox-panel-gallery-react/flex-panel-gallery.gif)
+![](flexbox-panel-gallery-react/flex-panel-gallery-mobile.gif)
+
+## Components: 
 ### 1. Panel:
 PROPS:
 - className
