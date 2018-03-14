@@ -2,8 +2,8 @@
 
 You can create one or more panels galleries(colection) chosing orientation for them, they are completely responsive. Every panel has middle Text(always visible) and top text and bottom text, that are visible when the panel is open. 
 
-![](flexbox-panel-gallery-react/flex-panel-gallery.gif)
-![](flexbox-panel-gallery-react/flex-panel-gallery-mobile.gif)
+![](https://github.com/FranRom/flexbox-panel-gallery-react/blob/master/flex-panel-gallery.gif)
+![](https://github.com/FranRom/flexbox-panel-gallery-react/blob/master/flex-panel-gallery-mobile.gif)
 
 ## Components: 
 ### 1. Panel:
